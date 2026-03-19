@@ -16,7 +16,7 @@ Reward Delivery (Points, cash, gift cards, etc.)
 Persistent Reward State (Stats, status, program priority)
       ↑
       └────────────── Updated profile for engagement,
-                                targeting, & eligibility
+                      targeting, & eligibility
 ```
 
 ---
