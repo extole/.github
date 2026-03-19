@@ -1,4 +1,4 @@
-# Extole Developer Hub on GitHub
+# Extole on GitHub
 
 Our platform helps you build programs that reward customer actions, such as referrals, loyalty, employee advocacy, onboarding incentives, and retention offers.
 
