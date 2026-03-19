@@ -39,14 +39,14 @@ Typical use cases include:
 
 **API Reference**
 
-* [Extole API Reference](https://docs.extole.com/reference)
+* [Extole API Reference](https://dev.extole.com/reference/client-api-overview)
 
 **Available SDKs**
 
-* [iOS SDK](https://dev.extole.com/)
-* [Android SDK](https://dev.extole.com/)
-* [React Native SDK](https://dev.extole.com/)
-* [JavaScript Web SDK](https://dev.extole.com/)
+* [iOS SDK](https://github.com/extole/ios-sdk)
+* [Android SDK](https://github.com/extole/android-sdk)
+* [React Native SDK](https://github.com/extole/react-native-sdk)
+* [JavaScript Web SDK](https://dev.extole.com/docs/javascript-sdk)
 
 These resources include architecture guides, integration tutorials, and complete API documentation.
 
