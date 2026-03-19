@@ -4,21 +4,6 @@ Our platform helps you build programs that reward customer actions, such as refe
 
 At its core, Extole evaluates **events**, applies **rules**, and delivers **rewards** while maintaining **identity and state** across the lifecycle of a customer relationship.
 
-```text
-Customer Event (API, webhook, CEP)
-      ↓
-Extole Audience & Targeting
-      ↓
-Reward Validation (Rules, quality checks)
-      ↓
-Reward Delivery (Points, cash, gift cards, etc.)
-      ↓
-Persistent Reward State (Stats, status, program priority)
-      ↑
-      └────────────── Updated profile for engagement,
-                      targeting, & eligibility
-```
-
 ---
 
 ## Extole SDKs and API
