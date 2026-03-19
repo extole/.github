@@ -13,10 +13,10 @@ Rules (Quality, Time, Action)
    ↓
 Rewards (Points, Cash, Gift Cards, etc.)
    ↓
-Profile (Status, Stats, Program Priority)
+Profile (Status, Stats, History)
    ↑
-   └───────────── Updated profile for engagement,
-                  targeting, & eligibility
+   └──────────────────────── Updated Profile for Engagement,         
+                      	     Targeting, and Eligibility
 ```
 
 ---
