@@ -2,7 +2,22 @@
 
 Our platform helps you build programs that reward customer actions, such as referrals, loyalty, employee advocacy, onboarding incentives, and retention offers.
 
-At its core, Extole evaluates **events**, applies **rules**, and delivers **rewards** while maintaining **identity and state** across the lifecycle of a customer relationship.
+At its core, Extole evaluates **events** for **campaigns**, applies **rules**, and delivers **rewards** while maintaining a **profile’s** identity and state across the lifecycle of a customer relationship.
+
+```
+Events (API, JS, Mobile SDKs, Files, Integrations)
+   ↓
+Campaigns (Audiences, Targeting)
+   ↓
+Rules (Quality, Time, Action)
+   ↓
+Rewards (Points, Cash, Gift Cards, etc.)
+   ↓
+Profile (Status, Stats, Program Priority)
+   ↑
+   └───────────── Updated profile for engagement,
+                  targeting, & eligibility
+```
 
 ---
 
