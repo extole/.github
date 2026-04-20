@@ -25,17 +25,26 @@ Events come in from anywhere. Rules evaluate them in real time. Rewards go out. 
 
 ---
 
-## Extole SDKs and API
+## What You Can Build With Extole
+
+Using the Extole APIs and SDKs, developers can build:
+
+* **Referral programs** – customer-to-customer acquisition flows
+* **Loyalty programs** – recurring incentives tied to ongoing engagement
+* **Reward programs** – milestone rewards, credits, and incentive payouts
+* **Welcome offers & onboarding incentives**
+* **Employee and partner advocacy programs**
+* **Targeted promotional offers and campaigns**
+* **Authenticated offers** (e.g., military, student, or partner discounts)
+* **In-person referral programs** powered by the [Go Extole](https://dev.extole.com/docs/go-extole) mobile app
+
+These programs can be embedded directly into your website, web app, mobile app, e-commerce site, or integrated with your marketing stack. Email [demo@extole.com](mailto:demo@extole.com) to request a sandbox environment.
+
+---
+
+## Extole Docs, SDKs, and API
 
 Extole provides SDKs and APIs to help you embed offer experiences built on the Extole platform.
-
-Typical use cases include:
-
-* Embedding offer programs in mobile apps, websites, e-commerce platforms, and banking platforms
-* Capturing customer events for reward evaluation
-* Triggering program messaging and reward delivery
-* Accessing user reward balances
-* Integrating with customer engagement platforms
 
 **Developer Documentation**
 
@@ -55,23 +64,6 @@ Typical use cases include:
 | JavaScript / Web | [javascript-sdk](https://github.com/extole/javascript-sdk) |
 
 These resources include architecture guides, integration tutorials, and complete API documentation.
-
----
-
-## What You Can Build With Extole
-
-Using the Extole APIs and SDKs, developers can build:
-
-* **Referral programs** – customer-to-customer acquisition flows
-* **Loyalty programs** – recurring incentives tied to ongoing engagement
-* **Reward programs** – milestone rewards, credits, and incentive payouts
-* **Welcome offers & onboarding incentives**
-* **Employee and partner advocacy programs**
-* **Targeted promotional offers and campaigns**
-* **Authenticated offers** (e.g., military, student, or partner discounts)
-* **In-person referral programs** powered by the [Go Extole](https://dev.extole.com/docs/go-extole) mobile app
-
-These programs can be embedded directly into your website, web app, mobile app, e-commerce site, or integrated with your marketing stack. Email [demo@extole.com](mailto:demo@extole.com) to request a sandbox environment.
 
 ---
 
