@@ -52,7 +52,11 @@ Extole provides SDKs and APIs to help you embed offer experiences built on the E
 
 **API Reference**
 
-* [Extole API Reference](https://dev.extole.com/reference/client-api-overview)
+* [Extole API Reference](https://docs.extole.com/reference)
+
+**API Specification Files**
+
+* [Extole API Specs](https://github.com/extole/extole-specification)
 
 **Available SDKs**
 
